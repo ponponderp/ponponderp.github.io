@@ -2,4 +2,4 @@
 
 ---
 
-<img src="images/maravilla_resume_22.png?raw=true"/>
+<img src="images/Resume 2023.png?raw=true"/>
