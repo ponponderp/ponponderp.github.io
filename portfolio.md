@@ -1,11 +1,19 @@
 ## Portfolio 
 
+[NJIT Course Review App / Advanced System Analysis and Design (IS663](/is663) 
+<br><br>
+For my graduate degree, I was given the opportunity to take IS663 as a course, which is Advanced System Analysis and Design. From this course I was able to learn:
+1- How to choose appropriate development methodology
+2- Understand and critique formal software requirements.
+3- Evaluate various architecture and design choices for specific systems and choose an optimal solution
+4- Evaluate and exercise prototyping methodologies.
+The result of the outcomes were my final project presentation, which was a prototype of the Course Review system which took NJIT into consideration.
+---
 [Senior Capstone / STEERus (Spring 2020) ](/steerus)
 <br><br>
 With <a href="https://www.steerus.io">STEERus</a> as my Senior capstone sponsor, I was placed in the Framework team where we were given the task of providing an intuitive application for the end user that helps them navigate through the application easily. We had to augment the existing basic framework of MangoApps with custom capsules (from our sister capstone team) and open source or other existing code via API integration.
 <br><br>
 <img src="images/STEERus_final.jpg?raw=true"/>
-
 ---
 [Senior Project / Stock Web Application (Spring 2020)](https://github.com/krg25/IT490-Frontend)
 <br><br>
