@@ -3,7 +3,7 @@
 <br>
 I'm currently a graduate student at [New Jersey Institute of Technology](https://www.njit.edu) studying Information Systems, specializing in Data Analytics.
 <br>
-Recently, I graduated from New Jersey Institute Technology with a Bachelor's Degree in Information Technology, specializing in Web Development back in 2020.
+I graduated from New Jersey Institute Technology with a Bachelor's Degree in Information Technology, specializing in Web Development back in 2020.
 <br>
 I can help build web applications and I also help you build a computer! [Current PC specs](https://pcpartpicker.com/user/Ponponderp/saved/#view=FYMPXL)
 <br><br>
