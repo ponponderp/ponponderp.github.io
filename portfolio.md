@@ -1,7 +1,7 @@
 ## Portfolio 
 [SaveMySeat! / User Experience Design (IS661)](/is661)
 <br><br>
-For the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
+In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
 Objectives for the course included:
 1- Learn fundamentals of User Experience Design
 <br>
@@ -14,7 +14,9 @@ Objectives for the course included:
 5- Partcipate in interaction design of multiple media formats (web,mobile, immmersive interfaces)
 <br>
 For this course, I came up with the idea of SaveMySeat as an optimal solution as an app for small businesses in local communities and consumers in the communities to come together and grab a seat for a quick bite or to promote local businesses while also letting users know what is available from the given business
+<br>
 <img src="images/savemyseat.png?raw=true"/>
+<br><br>
 ---
 [NJIT Course Review App / Advanced System Analysis and Design (IS663)](/is663) 
 <br><br>
@@ -54,6 +56,7 @@ ThinkLinks is a mobile application that was designed to help students find study
 [TopTicket! / Web Development (Spring 2018)](https://github.com/ponponderp/top-ticket)
 <br><br>
 TopTicket! is a decentralized application (DApp), which was developed using HTML5, Solidity (for smart contracts), Bootstrap, and Javascript. This DApp was connected to MetaMask to use ethereum as a cryptocurrency for purchasing movie tickets, with the Solidity smart contracts connected to the ehtereum blockchain. 
+<br><br>
 <img src="images/TopTicket preview.png?raw=true"/>
 
 ---
