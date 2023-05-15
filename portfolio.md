@@ -1,4 +1,7 @@
 ## Portfolio 
+
+---
+
 [SaveMySeat! / User Experience Design (IS661)](/is661)
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
@@ -18,6 +21,7 @@ For this course, I came up with the idea of SaveMySeat as an optimal solution as
 <img src="images/savemyseat.png?raw=true"/>
 <br><br>
 ---
+
 [NJIT Course Review App / Advanced System Analysis and Design (IS663)](/is663) 
 <br><br>
 For my graduate degree, I was given the opportunity to take IS663 as a course, which is Advanced System Analysis and Design. From this course I was able to learn:
@@ -33,12 +37,15 @@ For my graduate degree, I was given the opportunity to take IS663 as a course, w
 The result of the outcomes were my final project presentation, which was a prototype of the Course Review system which took NJIT into consideration.
 <br><br>
 ---
+
 [Senior Capstone / STEERus (Spring 2020) ](/steerus)
 <br><br>
 With <a href="https://www.steerus.io">STEERus</a> as my Senior capstone sponsor, I was placed in the Framework team where we were given the task of providing an intuitive application for the end user that helps them navigate through the application easily. We had to augment the existing basic framework of MangoApps with custom capsules (from our sister capstone team) and open source or other existing code via API integration.
 <br><br>
 <img src="images/STEERus_final.jpg?raw=true"/>
+<br>
 ---
+
 [Senior Project / Stock Web Application (Spring 2020)](https://github.com/krg25/IT490-Frontend)
 <br><br>
 For my IT490 Systems Integration Senior project, a team of four of us were tasked with creating a software as service utilizing a frontend, backend, database and data source server. For this project I managed the Frontend Server. Our product was a stock website where users can search and purchase stocks. Our servers were connected thru Rabbit MQ and hosted on Amazon Web Services. 
