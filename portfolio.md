@@ -1,13 +1,35 @@
 ## Portfolio 
-
+[SaveMySeat! / User Experience Design (IS661)](/is661)
+<br><br>
+For the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
+Objectives for the course included:
+1- Learn fundamentals of User Experience Design
+<br>
+2- Conduct user studies, conduct task analysis
+<br>
+3- Assess the usability of various information system interfaces
+<br>
+4- Conduct user studies, task analysis, assess usability of information systems interfaces
+<br>
+5- Partcipate in interaction design of multiple media formats (web,mobile, immmersive interfaces)
+<br>
+For this course, I came up with the idea of SaveMySeat as an optimal solution as an app for small businesses in local communities and consumers in the communities to come together and grab a seat for a quick bite or to promote local businesses while also letting users know what is available from the given business
+<img src="images/savemyseat.png?raw=true"/>
+---
 [NJIT Course Review App / Advanced System Analysis and Design (IS663)](/is663) 
 <br><br>
 For my graduate degree, I was given the opportunity to take IS663 as a course, which is Advanced System Analysis and Design. From this course I was able to learn:
+<br>
 1- How to choose appropriate development methodology
+<br>
 2- Understand and critique formal software requirements.
+<br>
 3- Evaluate various architecture and design choices for specific systems and choose an optimal solution
+<br>
 4- Evaluate and exercise prototyping methodologies.
+<br>
 The result of the outcomes were my final project presentation, which was a prototype of the Course Review system which took NJIT into consideration.
+<br><br>
 ---
 [Senior Capstone / STEERus (Spring 2020) ](/steerus)
 <br><br>
