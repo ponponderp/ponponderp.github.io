@@ -17,7 +17,7 @@ Objectives for the course included:
 <br>
 For this course, I came up with the idea of SaveMySeat as an optimal solution as an app for small businesses in local communities and consumers in the communities to come together and grab a seat for a quick bite or to promote local businesses while also letting users know what is available from the given business
 <br>
-<img src="images/savemyseat.png?raw=true"/>
+<img src="images/savemyseat.PNG?raw=true"/>
 <br><br>
 ---
 
