@@ -4,7 +4,9 @@
 ## [SaveMySeat! / User Experience Design (IS661)](/is661)
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
+
 Objectives for the course included:
+<br>
 1- Learn fundamentals of User Experience Design
 <br>
 2- Conduct user studies, conduct task analysis
@@ -15,6 +17,7 @@ Objectives for the course included:
 <br>
 5- Partcipate in interaction design of multiple media formats (web,mobile, immmersive interfaces)
 <br>
+
 For this course, I came up with the idea of SaveMySeat as an optimal solution as an app for small businesses in local communities and consumers in the communities to come together and grab a seat for a quick bite or to promote local businesses while also letting users know what is available from the given business
 <br>
 <img src="images/savemyseat.PNG?raw=true"/>
