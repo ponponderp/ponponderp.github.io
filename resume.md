@@ -2,4 +2,4 @@
 
 ---
 
-<img src="images/Resume 2023.png?raw=true"/>
+<img src="images/resume 2023 october.JPG"/>
