@@ -1,7 +1,7 @@
 # Portfolio 
 
 
-## [SaveMySeat! / User Experience Design (IS661)](/is661)
+## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/file/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=1%3A13&mode=design&t=H7Q9NIGwYvCiixvK-1)
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
 
@@ -25,7 +25,7 @@ For this course, I came up with the idea of SaveMySeat as an optimal solution as
 <br><br>
 ---
 
-## [NJIT Course Review App / Advanced System Analysis and Design (IS663)]([/is663](https://2sd27g.axshare.com/#id=itivf9&p=home)) 
+## [NJIT Course Review App / Advanced System Analysis and Design (IS663)](https://2sd27g.axshare.com/#id=itivf9&p=home)
 
 <br><br>
 For my graduate degree, I was given the opportunity to take IS663 as a course, which is Advanced System Analysis and Design. From this course I was able to learn:
