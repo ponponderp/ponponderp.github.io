@@ -20,11 +20,13 @@ Objectives for the course included:
 
 For this course, I came up with the idea of SaveMySeat as an optimal solution as an app for small businesses in local communities and consumers in the communities to come together and grab a seat for a quick bite or to promote local businesses while also letting users know what is available from the given business
 <br>
+
 <img src="images/savemyseat.PNG?raw=true"/>
 <br><br>
 ---
 
-## [NJIT Course Review App / Advanced System Analysis and Design (IS663)](/is663) 
+## [NJIT Course Review App / Advanced System Analysis and Design (IS663)]([/is663](https://2sd27g.axshare.com/#id=itivf9&p=home)) 
+
 <br><br>
 For my graduate degree, I was given the opportunity to take IS663 as a course, which is Advanced System Analysis and Design. From this course I was able to learn:
 <br>
@@ -36,7 +38,8 @@ For my graduate degree, I was given the opportunity to take IS663 as a course, w
 <br>
 4- Evaluate and exercise prototyping methodologies.
 <br>
-The result of the outcomes were my final project presentation, which was a prototype of the Course Review system which took NJIT into consideration.
+The result of the outcomes were my final project presentation, which was a prototype of the Course Review system which took NJIT courses into consideration. 
+
 <br><br>
 ---
 
