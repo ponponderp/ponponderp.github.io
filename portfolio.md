@@ -1,7 +1,7 @@
 # Portfolio 
 <br>
 
-## [Coffee Site / Web Systems Development (IS601](https://njit-wis.github.io/coffee_site/about)
+## [Coffee Site / Web Systems Development (IS601](/coffeesite.md)
 <br>
 
 For IS601 in Summer 2023, I partcipated in Web Systems Development for Master's students. In this course we worked with the same project team for the entire summer semester, slowly learning how to navigate Github and creating websites with Github Projects (which is native to the app)
@@ -22,11 +22,7 @@ Objectives for this course included:
 <br><br>
 For this course, the final group project consisted of agile web development [(project requirements)](https://github.com/kaw393939/webdev1_final_group)
 <br>
-In my group's Coffee Website, the design itself is very simple but also uses the same Github Pages template used for this website here. In the side nav, users can find a blog section, privacy policy, and incorporates Google Analytics and Mailchimp integrations to understand user metrics. 
-I used the same coffee mug asset from my previous project, combining both project ideas (Fresh Brew Coffee Co. as a possible cafe to visit in the future?)
-![image](https://github.com/ponponderp/ponponderp.github.io/assets/38149022/3a5ff99b-257a-47c6-afe8-fb3c1a23d2e7)
-<br>
-THe course's github page is tied to the Professor, so it is private for now but feel free to inquire for more information on this project.
+
 
 ---
 
