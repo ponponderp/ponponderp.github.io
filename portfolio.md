@@ -1,11 +1,11 @@
 # Portfolio 
+<br>
 
 ## [Coffee Site / Web Systems Development (IS601](https://njit-wis.github.io/coffee_site/about)
-<br><br>
+<br>
 
-For IS601 in Summer 2023, 
-<br>
-<br>
+For IS601 in Summer 2023, I partcipated in Web Systems Development for Master's students. In this course we worked with the same project team for the entire summer semester, slowly learning how to navigate Github and creating websites with Github Projects (which is native to the app)
+
 Objectives for this course included:
 <br>
 1- Communication, developing the ability to effective articulate technical concepts including Internet Architecture, GIT for version control, and development languages (NextJS, React, NodeJS, HTML, CSS)
