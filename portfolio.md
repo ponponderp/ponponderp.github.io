@@ -1,7 +1,36 @@
 # Portfolio 
 
+## [Coffee Site / Web Systems Development (IS601](https://njit-wis.github.io/coffee_site/about)
+<br><br>
 
-## [SaveMySeat! / User Experience Design (IS661)]([https://www.figma.com/file/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=1%3A13&mode=design&t=H7Q9NIGwYvCiixvK-1](https://www.figma.com/proto/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=5-29&t=Xh67l0fxdzIZOWMT-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1))
+For IS601 in Summer 2023, 
+<br>
+<br>
+Objectives for this course included:
+<br>
+1- Communication, developing the ability to effective articulate technical concepts including Internet Architecture, GIT for version control, and development languages (NextJS, React, NodeJS, HTML, CSS)
+<br>
+2- Collaboration, exhibit proficiency in agile team practices and lean business principles
+<br>
+3- Competency, demonstrate technical proficiency in website development, also implementing automated testing (Playwright) and deployment 
+<br>
+4- Integrity, understanding and adhering legal requirements for website development (copyright laws and accessibility standards)
+<br>
+5- Personal Responsibility, creating original work, taking owernship of project outcomes and implmenting SAAS into business websites, maintaining the quality and reliabilty of software thru CI/CD pipelines
+<br>
+6- Inclusivity, mobile-first and responvive design principles for diverse user needs
+<br><br>
+For this course, the final group project consisted of agile web development [(project requirements)](https://github.com/kaw393939/webdev1_final_group)
+<br>
+In my group's Coffee Website, the design itself is very simple but also uses the same Github Pages template used for this website here. In the side nav, users can find a blog section, privacy policy, and incorporates Google Analytics and Mailchimp integrations to understand user metrics. 
+I used the same coffee mug asset from my previous project, combining both project ideas (Fresh Brew Coffee Co. as a possible cafe to visit in the future?)
+![image](https://github.com/ponponderp/ponponderp.github.io/assets/38149022/3a5ff99b-257a-47c6-afe8-fb3c1a23d2e7)
+<br>
+THe course's github page is tied to the Professor, so it is private for now but feel free to inquire for more information on this project.
+
+---
+
+## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/proto/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=5-29&t=Xh67l0fxdzIZOWMT-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1))
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
 
