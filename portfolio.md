@@ -26,7 +26,8 @@ For this course, the final group project consisted of agile web development [(pr
 
 ---
 
-## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/proto/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=5-29&t=Xh67l0fxdzIZOWMT-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1))
+## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/proto/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=5-29&t=Xh67l0fxdzIZOWMT-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1)
+
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
 
@@ -48,6 +49,7 @@ For this course, I came up with the idea of SaveMySeat as an optimal solution as
 
 <img src="images/savemyseat.PNG?raw=true"/>
 <br><br>
+
 ---
 
 ## [NJIT Course Review App / Advanced System Analysis and Design (IS663)](https://2sd27g.axshare.com/#id=itivf9&p=home)
@@ -66,21 +68,24 @@ For my graduate degree, I was given the opportunity to take IS663 as a course, w
 The result of the outcomes were my final project presentation, which was a prototype of the Course Review system which took NJIT courses into consideration. 
 
 <br><br>
----
 
+---
 ## [Senior Capstone / STEERus (Spring 2020) ](/steerus)
 <br><br>
+
 With <a href="https://www.steerus.io">STEERus</a> as my Senior capstone sponsor, I was placed in the Framework team where we were given the task of providing an intuitive application for the end user that helps them navigate through the application easily. We had to augment the existing basic framework of MangoApps with custom capsules (from our sister capstone team) and open source or other existing code via API integration.
 <br><br>
-<img src="images/STEERus_final.jpg?raw=true"/>
-<br>
----
 
+<img src="images/STEERus_final.jpg?raw=true"/>
+
+<br>
+
+---
 ## [Senior Project / Stock Web Application (Spring 2020)](https://github.com/krg25/IT490-Frontend)
 <br><br>
 For my IT490 Systems Integration Senior project, a team of four of us were tasked with creating a software as service utilizing a frontend, backend, database and data source server. For this project I managed the Frontend Server. Our product was a stock website where users can search and purchase stocks. Our servers were connected thru Rabbit MQ and hosted on Amazon Web Services. 
 <br><br>
-<img src="images/stocks.am preview.png?raw=true"/>
+![image](https://github.com/ponponderp/ponponderp.github.io/assets/38149022/684f99bc-5054-4d0a-8387-770723d18984)
 
 ---
 ## [ThinkLinks / User Experience Design (Fall 2018)](https://xd.adobe.com/view/16279b55-bafa-4a29-5529-023f61f5b2a3-6016/)
