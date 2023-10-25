@@ -4,7 +4,7 @@
 ## [Coffee Site / Web Systems Development (IS601](/coffeesite.md)
 <br>
 
-For IS601 in Summer 2023, I partcipated in Web Systems Development for Master's students. In this course we worked with the same project team for the entire summer semester, slowly learning how to navigate Github and creating websites with Github Projects (which is native to the app)
+In Summer 2023, I partcipated in Web Systems Development (IS601) for Master's students. In this course we worked with the same project team for the entire summer semester, slowly learning how to navigate Github and creating/deploying websites using the features available.
 
 Objectives for this course included:
 <br>
@@ -20,9 +20,7 @@ Objectives for this course included:
 <br>
 6- Inclusivity, mobile-first and responvive design principles for diverse user needs
 <br><br>
-For this course, the final group project consisted of agile web development [(project requirements)](https://github.com/kaw393939/webdev1_final_group)
-<br>
-
+![image](https://github.com/ponponderp/ponponderp.github.io/assets/38149022/2b7d0c89-28ae-4f58-ad24-f1c7372a61c9)
 
 ---
 
