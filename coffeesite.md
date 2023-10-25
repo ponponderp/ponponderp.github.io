@@ -1,6 +1,6 @@
 # IS601 - Coffee Website - "Fresh Brew Coffee Co."
 
-And this is the website: [https://njit-wis.github.io/coffee_site/](https://njit-wis.github.io/coffee_site/)
+Website: [https://njit-wis.github.io/coffee_site/](https://njit-wis.github.io/coffee_site/)
 <br><br>
 For this course, the final group project consisted of agile web development [(project requirements)](https://github.com/kaw393939/webdev1_final_group)
 <br><br>
