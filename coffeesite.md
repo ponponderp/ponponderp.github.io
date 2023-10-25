@@ -8,9 +8,6 @@ In my group's Coffee Website, the design itself is very simple but also uses the
 <br>
 I used the same coffee mug asset from my previous project, combining both project ideas (Fresh Brew Coffee Co. as a possible cafe to visit in the future?)
 <br><br>
-
-![image](https://github.com/ponponderp/ponponderp.github.io/assets/38149022/3a5ff99b-257a-47c6-afe8-fb3c1a23d2e7)
-<br>
 (The course's github page is tied to the Professor, so it is private for now but feel free to inquire for more information on this project)
 <br><br>
 
