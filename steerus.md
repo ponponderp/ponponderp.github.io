@@ -1,7 +1,8 @@
-## NJIT Information Techology Senior Capstone / STEERus
+# NJIT Information Techology Senior Capstone / STEERus
 ---
 <img src="images/STEERus_final.jpg?raw=true"/>
-### Role: Frontend Framework Developer 
+
+## Role: Frontend Framework Developer 
 
 For my Senior Capstone, I was able to work with <a href="https://www.steerus.io/">STEERus</a>. The Framework team consisted of 5 members:
 - Project Manager 
@@ -11,6 +12,7 @@ For my Senior Capstone, I was able to work with <a href="https://www.steerus.io/
 <br>
 For the Spring 2020 semester, I was able to work with another Frontend developer, where we split our tasks accordingly.
 <br>
+
 **STEERus** is a lean startup that plans on creating a social coaching platform for students and new graduates to be prepared for the real world, helping people develop their soft skills.
 <br>
 We worked in an agile environment and used Trello to keep track of our progress throughout the semester. We communicated thru weekly scrum calls with our project manager and our sponsors throughout each sprint. And at the end of each sprint, we would reflect on what we learned and what we could improve on. 
@@ -31,6 +33,7 @@ Using the <a href="https://www.mangoapps.com/">MangoApps Digital Workplace Platf
 
 ---
 ### Completed Deliverables:
+
 - **MangoApps Branding Customization**
 <br>
 Navbar changes for MangoApps:
