@@ -24,8 +24,9 @@ Objectives for this course included:
 
 ---
 
-## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/proto/FdiMSVb6ygty39Wn0SLXBm/IS661-Project---Maravilla?type=design&node-id=5-29&t=Xh67l0fxdzIZOWMT-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1)
+## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/file/zvwoYludmMfBbyJzuRUzFc/IS661-Project---Maravilla?type=design&node-id=1%3A13&mode=design&t=GcYoRs1fJelABEh9-1)
 
+Prototype: [figma link](https://www.figma.com/proto/zvwoYludmMfBbyJzuRUzFc/IS661-Project---Maravilla?type=design&node-id=5-29&t=m0CZIf9jbATbCZG6-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1)
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
 
