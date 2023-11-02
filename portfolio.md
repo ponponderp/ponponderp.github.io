@@ -1,7 +1,7 @@
 # Portfolio 
 <br>
 
-## [Coffee Site / Web Systems Development (IS601](/coffeesite.md)
+## [Coffee Site / Web Systems Development (IS601)](/coffeesite.md)
 <br>
 
 In Summer 2023, I partcipated in Web Systems Development (IS601) for Master's students. In this course we worked with the same project team for the entire summer semester, slowly learning how to navigate Github and creating/deploying websites using the features available.
