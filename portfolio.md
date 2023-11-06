@@ -2,10 +2,9 @@
 <br>
 
 ## [Coffee Site / Web Systems Development (IS601)](/coffeesite.md)
-<br>
 
 In Summer 2023, I partcipated in Web Systems Development (IS601) for Master's students. In this course we worked with the same project team for the entire summer semester, slowly learning how to navigate Github and creating/deploying websites using the features available.
-
+<br><br>
 Objectives for this course included:
 <br>
 1- Communication, developing the ability to effective articulate technical concepts including Internet Architecture, GIT for version control, and development languages (NextJS, React, NodeJS, HTML, CSS)
@@ -27,6 +26,8 @@ Objectives for this course included:
 ## [SaveMySeat! / User Experience Design (IS661)](https://www.figma.com/file/zvwoYludmMfBbyJzuRUzFc/IS661-Project---Maravilla?type=design&node-id=1%3A13&mode=design&t=GcYoRs1fJelABEh9-1)
 
 Prototype: [figma link](https://www.figma.com/proto/zvwoYludmMfBbyJzuRUzFc/IS661-Project---Maravilla?type=design&node-id=5-29&t=m0CZIf9jbATbCZG6-9&scaling=scale-down&page-id=1%3A13&starting-point-node-id=5%3A29&show-proto-sidebar=1)
+<br>
+Final Project Report: [bit.ai link](https://cafefinder.bit.ai/rdc/2FT7Dkbz8tl3M92U)
 <br><br>
 In the Spring 2023 semester, I had the opportunity to take IS661, which is User Experience Design for Masters' students at NJIT.
 
