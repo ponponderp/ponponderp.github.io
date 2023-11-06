@@ -87,7 +87,11 @@ For my IT490 Systems Integration Senior project, a team of four of us were taske
 ---
 ## [ThinkLinks / User Experience Design (Fall 2018)](https://xd.adobe.com/view/16279b55-bafa-4a29-5529-023f61f5b2a3-6016/)
 
-ThinkLinks is a mobile application that was designed to help students find study groups within the NJIT community. The wireframe simply came from scenario-based design where we found an issue and used this application to solve the problem.
+ThinkLinks is a mobile application (high fidelity wireframe) that was designed to help students find study groups within the NJIT community. The wireframe simply came from scenario-based design where we found an issue and used this application to solve the problem.
+<br>
+Final Project Documentation: [Google Doc Link](https://docs.google.com/document/d/e/2PACX-1vRsZXAah46Q-kWxO6cPjSU7_kWs5d29-UqW11Kjl6ozVxo20K0xttR99iTwKG8Anw/pub)
+<br>
+Axure Share Final Project: [Axure RP Link](https://93j6qa.axshare.com/#g=1&p=cover_page)
 <br><br>
 <img src="images/thinklinks preview.png?raw=true"/>
 
